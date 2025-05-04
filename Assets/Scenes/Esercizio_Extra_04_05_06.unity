@@ -243,9 +243,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: efb608f9d3ace5d4ca2cebc97cc332ea, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lunghezzaarray: 10
-  minimonumeroarray: 10
-  massimonumeroarray: 10
+  lunghezzaarray: 3
+  minimonumeroarray: 5
+  massimonumeroarray: 8
 --- !u!4 &277444286
 Transform:
   m_ObjectHideFlags: 0
